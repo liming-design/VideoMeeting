@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="img">
+    <file>删除全部.png</file>
+    <file>删 除 .png</file>
+    <file>服务器.png</file>
+    <file>开启.png</file>
+    <file>暂停.png</file>
+  </qresource>
+</RCC>
